@@ -1,0 +1,12 @@
+defaultVTrees=FAVORITE_PACKAGES,RELEASED_FOR_CLOUD
+eclipse.preferences.version=1
+vtrees/dd688ab5-8d86-4f2c-a25a-3bc61228997d/facets=package,type
+vtrees/dd688ab5-8d86-4f2c-a25a-3bc61228997d/filter=api\:USE_IN_SAP_CLOUD_PLATFORM
+vtrees/dd688ab5-8d86-4f2c-a25a-3bc61228997d/name=Released Objects
+vtrees/dd688ab5-8d86-4f2c-a25a-3bc61228997d/predefinedTree=RELEASED_FOR_CLOUD
+vtrees/dd688ab5-8d86-4f2c-a25a-3bc61228997d/searchPattern=
+vtrees/ff0ed509-cca2-42c5-bcd0-b4cf2ac76c00/facets=package,type
+vtrees/ff0ed509-cca2-42c5-bcd0-b4cf2ac76c00/filter=package\:ZGH
+vtrees/ff0ed509-cca2-42c5-bcd0-b4cf2ac76c00/name=Favorite Packages
+vtrees/ff0ed509-cca2-42c5-bcd0-b4cf2ac76c00/predefinedTree=FAVORITE_PACKAGES
+vtrees/ff0ed509-cca2-42c5-bcd0-b4cf2ac76c00/searchPattern=
